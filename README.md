@@ -2,6 +2,8 @@
 
 A 7 KB wrapper `.app` that lets you run **two Claude Desktop instances side-by-side** with independent accounts, sessions, and rate limits. No Electron repackaging, no patches to the official Claude.app.
 
+![Two Claude Desktop windows side by side](docs/screenshot.png)
+
 > Works with the official [Claude Desktop](https://claude.ai/download) for macOS. Full feature parity — cowork, computer use, file system access, MCP servers — because under the hood it *is* the official Claude binary, just launched with an isolated user-data directory.
 
 繁體中文說明請見下方 [中文](#中文).
